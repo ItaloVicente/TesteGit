@@ -1,0 +1,17 @@
+{
+  "nome": "ITALO",
+  "idade": "18",
+  "sexo": "M",
+  "senha": "12345",
+  "consultas": [],
+  "listaEspera": [
+    {
+      "nomeMedico": "MIRELLE LEITE",
+      "nomePaciente": "ITALO",
+      "data": "02/02/2006",
+      "horario": "11:00h"
+    }
+  ],
+  "consultasRealizadas": [],
+  "avaliarConsultas": []
+}

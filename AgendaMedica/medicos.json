@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "SALES",
+    "especialidade": "FISIOTERAPIA",
+    "senha": "12345",
+    "notas": [],
+    "consultas": [
+      {
+        "nomeMedico": "SALES",
+        "nomePaciente": "MALU",
+        "data": "05/05/2005",
+        "horario": "9:00h"
+      },
+      {
+        "nomeMedico": "SALES",
+        "nomePaciente": "MALU",
+        "data": "10/10/2010",
+        "horario": "10:00h"
+      },
+      {
+        "nomeMedico": "SALES",
+        "nomePaciente": "ITALO",
+        "data": "05/10/2023",
+        "horario": "9:00h"
+      },
+      {
+        "nomeMedico": "SALES",
+        "nomePaciente": "ITALO",
+        "data": "02/02/2006",
+        "horario": "9:00h"
+      }
+    ],
+    "listaEspera": []
+  },
+  {
+    "nome": "MIRELLE LEITE",
+    "especialidade": "OTORRINOLARINGOLOGISTA",
+    "senha": "12345",
+    "notas": [],
+    "consultas": [
+      
+    ],
+    "listaEspera": [
+      {
+        "nomeMedico": "MIRELLE LEITE",
+        "nomePaciente": "ITALO",
+        "data": "02/02/2006",
+        "horario": "11:00h"
+      }
+    ]
+  }
+]
